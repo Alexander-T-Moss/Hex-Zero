@@ -9,5 +9,6 @@ Bellow is a list of things that still need to be done before considering public 
 - [ ] Adjust panel clips to utilise foam tape and clear XY joints
 - [ ] Create some sort of proper feet
 - [ ] Finish tidying up the CAD
-- [ ] Creat a minimalistic BOM (on a budget BOM)
+- [ ] Create a minimalistic BOM (on a budget BOM)
 - [ ] Create display mounts
+- [ ] Design a printable deck panel (and possibly other panels)
