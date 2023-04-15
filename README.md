@@ -9,3 +9,4 @@ Bellow is a list of things that still need to be done before considering public 
 2. Adjust panel clips to utilise foam tape and clear XY joints
 3. Create some sort of proper feet
 4. Finish tidying up the CAD
+5. Create a minimalistic BOM (cheap as possible)
