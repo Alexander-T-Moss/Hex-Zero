@@ -5,7 +5,7 @@ If you have stumbled across this by chance, all files here are pre-release and p
 
 Bellow is a list of things that still need to be done before considering public release:
 
-1. Create electronics mounts
+1. Create _more_ electronics mounts
 2. Adjust panel clips to utilise foam tape and clear XY joints
 3. Create some sort of proper feet
 4. Finish tidying up the CAD
