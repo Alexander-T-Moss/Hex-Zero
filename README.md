@@ -25,5 +25,5 @@ Z --> 105mm
 
 Print Volume
 X --> 120mm
-Y --> 120mm
+Y --> 115mm
 Z --> 105mm
