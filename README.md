@@ -1,6 +1,9 @@
 # Hex-Zero
 The amalgomation of Tri-Zero, Pandora, V0.2 and plenty of extra hexagons!
 
+![image](https://user-images.githubusercontent.com/54496326/232307002-49ac7e61-837f-4a6e-a85c-e91b0a9f420c.png)
+
+
 If you have stumbled across this by chance, all files here are pre-release and potentially not tested, please keep in mind the files will change regularly as issues are found and resolved through testing. Happy printing :)
 
 Bellow is a list of things that still need to be done before considering public release:
