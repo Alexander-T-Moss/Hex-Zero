@@ -17,3 +17,13 @@ Bellow is a list of things that still need to be done before considering public 
 - [ ] Design a printable deck panel (and possibly other panels)
 
 BOM First Draft - https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing
+
+Current Printer Travel:
+X --> 140mm
+Y --> 125mm
+Z --> 105mm
+
+Print Volume
+X --> 120mm
+Y --> 120mm
+Z --> 105mm
