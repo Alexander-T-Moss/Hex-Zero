@@ -28,4 +28,4 @@ Z --> 105mm
 
 ## Change Log:
 
-**20/04/2023** - Changed `[a]_x_carriage` for better belt fitting and `rear_z_motor_mount` to attach easier
+**20/04/2023** - Changed `[a]_x_carriage` for better belt fitting and `rear_z_motor_mount` to attach easier. Also added mounting for V0 Display
