@@ -14,6 +14,7 @@ Bellow is a list of things that still need to be done before considering public 
 - [x] Create display mount
 - [ ] Design a printable deck panel (and possibly other panels)
 - [ ] Create wire mangement stuff
+- [ ] Add pins to AB drives
 
 BOM First Draft - https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing
 
