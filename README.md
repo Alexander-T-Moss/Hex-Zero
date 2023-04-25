@@ -18,6 +18,7 @@ Bellow is a list of things that still need to be done before considering public 
 - [ ] Create new rear z belt mount
 - [ ] Improve MiniSB nozzle LED mounting
 - [ ] Add cool hexagon patterns to panels, idk if I'll actually do this, probably will do it if I'm procrastinating from studying
+- [ ] Design rear panel to be a door for easier/tool-less access to electronics at the rear
 
 BOM First Draft - https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing
 
