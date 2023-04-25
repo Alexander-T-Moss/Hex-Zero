@@ -30,4 +30,6 @@ Z --> 105mm
 
 ## Change Log:
 
+**25/04/2023** - Changed `centre_brace` for better clearance, and also changed the M4/GE4C gantry attachments. Note: I think I'll need to fix the issues that the M4/GE4C gantry attachments had for the M3/KGLM-03 but haven't gotten around to this!
+
 **20/04/2023** - Changed `[a]_x_carriage` for better belt fitting and `rear_z_nema_17_motor_mount` to attach easier. Also added mounting for V0 Display
