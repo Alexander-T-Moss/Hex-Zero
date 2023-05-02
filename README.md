@@ -1,3 +1,6 @@
+# Known Issues
+1. Fitment issue with M3 pins for bearings stacks, easy to fix, just need to get some free time
+
 # Hex-Zero
 The amalgomation of Tri-Zero, Pandora, V0.2 and plenty of extra hexagons!
 
