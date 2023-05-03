@@ -1,7 +1,11 @@
+# Known Issues
+1. Fitment issue with M3 pins for bearings stacks, easy to fix, just need to get some free time
+
 # Hex-Zero
 The amalgomation of Tri-Zero, Pandora, V0.2 and plenty of extra hexagons!
 
-![Hex-Zero_2023-Apr-16_01-05-21PM-000_CustomizedView26907849508](https://user-images.githubusercontent.com/54496326/232315023-1b0fb3af-21b2-4a2f-81e4-85882d83054d.png)
+![Screenshot 2023-04-25 at 22 01 17](https://user-images.githubusercontent.com/54496326/234402963-704bad2c-57e0-427a-8bdd-e37d252004ff.png)
+
 If you have stumbled across this by chance, all files here are pre-release and potentially not tested, please keep in mind the files will change regularly as issues are found and resolved through testing. Happy printing :)
 
 Bellow is a list of things that still need to be done before considering public release:
@@ -18,6 +22,7 @@ Bellow is a list of things that still need to be done before considering public 
 - [ ] Create new rear z belt mount
 - [ ] Improve MiniSB nozzle LED mounting
 - [ ] Add cool hexagon patterns to panels, idk if I'll actually do this, probably will do it if I'm procrastinating from studying
+- [ ] Design rear panel to be a door for easier/tool-less access to electronics at the rear
 
 BOM First Draft - https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing
 
