@@ -1,6 +1,3 @@
-# Known Issues
-1. Fitment issue with M3 pins for bearings stacks, easy to fix, just need to get some free time
-
 # Hex-Zero
 The amalgomation of Tri-Zero, Pandora, V0.2 and plenty of extra hexagons!
 
@@ -37,6 +34,8 @@ Y --> 115mm
 Z --> 105mm
 
 ## Change Log:
+
+**03/05/2023** - Changed XY joints for beter M3 pin fitment and changed `[a]_x_carriage` again for marginal gains in the belt attachment department
 
 **25/04/2023** - Changed `centre_brace` for better clearance, and also changed the M4/GE4C gantry attachments. Note: I think I'll need to fix the issues that the M4/GE4C gantry attachments had for the M3/KGLM-03 but haven't gotten around to this!
 
