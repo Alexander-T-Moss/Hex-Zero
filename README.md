@@ -1,25 +1,25 @@
 # Hex-Zero
-The amalgomation of Tri-Zero, Pandora, V0.2 and plenty of extra hexagons!
+The amalgamation of Tri-Zero, Pandora, V0.2 and plenty of extra hexagons!
 
-![Screenshot 2023-04-25 at 22 01 17](https://user-images.githubusercontent.com/54496326/234402963-704bad2c-57e0-427a-8bdd-e37d252004ff.png)
+![Screenshot 2023-04-25 at 22 01 17](/Images/Renders/Hex-Zero_Render.png)
 
 If you have stumbled across this by chance, all files here are pre-release and potentially not tested, please keep in mind the files will change regularly as issues are found and resolved through testing. Happy printing :)
 
-Bellow is a list of things that still need to be done before considering public release:
+Below is a list of things that still need to be done before considering public release:
 
 - [ ] Create _more_ electronics mounts
 - [ ] Adjust panel clips to utilise foam tape and clear XY joints - _started working on this_
-- [ ] Create some sort of proper feet
+- [ ] Create some proper feet
 - [ ] Finish tidying up the CAD
 - [ ] Create a minimalistic BOM (on a budget BOM)
-- [x] Create display mount
+- [x] Create a display mount
 - [ ] Design a printable deck panel (and possibly other panels)
-- [ ] Create wire mangement stuff
+- [ ] Create wire management stuff
 - [ ] Add pins to AB drives
-- [ ] Create new rear z belt mount
+- [ ] Create a new rear z-belt mount
 - [ ] Improve MiniSB nozzle LED mounting
-- [ ] Add cool hexagon patterns to panels, idk if I'll actually do this, probably will do it if I'm procrastinating from studying
-- [ ] Design rear panel to be a door for easier/tool-less access to electronics at the rear
+- [ ] Add cool hexagon patterns to panels, idk if I will actually do this, probably will do it if I'm procrastinating from studying
+- [ ] Design the rear panel to be a door for easier/tool-less access to electronics at the rear
 
 BOM First Draft - https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing
 
