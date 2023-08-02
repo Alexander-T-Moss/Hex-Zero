@@ -8,7 +8,7 @@ Hex-Zero sits between a scratch build and conversion as although it uses the ori
 
 ![Hex-Zero_Render](/Images/Renders/Hex-Zero_Render.png)
 
-## Why Hex-Zero Over Tri-Zero?
+## Why Hex-Zero Over Tri-Zero + Pandora Gantry?
 
 There are several major changes, besides aesthetics I've listed below:
 
@@ -16,7 +16,7 @@ There are several major changes, besides aesthetics I've listed below:
 2. **Reduced** the **Z height of the Z motor mounts** and skirts
 3. **New front Z tensioners/idlers** to allow clearance with MiniSB
 
-There are also these mani tweaks to the pandora gantry:
+There are also these main tweaks to the pandora gantry:
 
 1. **Uses M3 pins** instead of bolts on all bearing stacks (except the bearings in the front XY idlers that are also structural)
 2. Redesigned all parts to print easier, **stronger** and match the rest of the aesthetic of Hex-Zero
@@ -29,9 +29,9 @@ At this point, **every** printed part has either been modified in some way, or c
 
 ### What Do I Need To Buy?
 
-The bill of materials for this project can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing) :) I have double, triple, quadruple checked the quantaties of fasteners, but as always, to be on the safe side, I strongly recommend you buy extra! (You may also find it worth file to pick up some bolts where you'd only have a few left over if using the ones on your V0.2 already, indicated by the small grey'd out negative numbers) **If you notice any issues with the BOM, please let me know ASAP!**
+The bill of materials for this project can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing) :) I have double, triple, quadruple checked the quantaties of fasteners, but as always, to be on the safe side, I strongly recommend you buy extra! (You may also find it worth while to pick up some bolts where you'd only have a few left over if using the ones on your V0.2 already, indicated by the small grey'd out negative numbers) **If you notice any issues with the BOM, please let me know ASAP!**
 
-There are two BOM sheets, one for if your converting a V0.2 --> Hex-Zero and a "Full" Hex-Zero BOM. You'll most likely want to be reference the V0.2 --> Hex-Zero BOM :)
+There are two BOM sheets, one for if you're converting a V0.2 --> Hex-Zero and a "*Full*" Hex-Zero BOM. You'll most likely want to be referencing the V0.2 --> Hex-Zero BOM :)
 
 ### Assembly Instructions?
 
