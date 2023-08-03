@@ -4,7 +4,7 @@ Complete re-design of Tri-Zero, with a revised pandora gantry plus plenty of hex
 
 This projected all stemmed from wanting a boop on my V0, to now being a test platform for a future probe related project... top sekrit for now ;)
 
-Hex-Zero sits between a scratch build and conversion as although it uses the original V0 frame (with the optional additon of one extra extrusion) it also requires a complete printer rebuild!
+Hex-Zero sits between a scratch build and conversion as although it uses the original V0 frame (with the optional additon of one extra extrusion) it also requires a complete printer rebuild which most conversions don't! (Moving forward though, I'll just refer to it as a conversion for simplicity)
 
 ![Hex-Zero_Render](/Images/Renders/Hex-Zero_Render.png)
 
