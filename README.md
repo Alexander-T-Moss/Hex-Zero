@@ -1,3 +1,4 @@
+You Can Message Me Directly With Any Queries Via Discord [Here](https://discordapp.com/users/581384112687022080) Or In The [Development Thread](https://discordapp.com/channels/825469421346226226/1095450118553084085) :)
 # Hex-Zero
 
 Complete re-design of Tri-Zero, with a revised pandora gantry plus plenty of hexagons!
