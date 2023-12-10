@@ -7,7 +7,7 @@ This projected all stemmed from wanting a boop on my V0, to now being a test pla
 
 Hex-Zero sits between a scratch build and conversion as although it uses the original V0 frame (with the optional additon of one extra extrusion) it also requires a complete printer rebuild which most conversions don't! (Moving forward though, I'll just refer to it as a conversion for simplicity)
 
-![Hex-Zero_Render](/Images/Renders/Hex-Zero_Render.png)
+![Hex-Zero_Render](/Images/Renders/Hex-Zero_Render_Blue.png)
 
 ## Why Hex-Zero Over Tri-Zero + Pandora Gantry?
 
