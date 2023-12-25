@@ -25,7 +25,7 @@ The bill of materials to convert a V0.2 to a HX0 can be found [here](https://doc
 
 ## Toolheads & Probes
 
-Any probe and toolhead combination that works with Tri-Zero should work on Hex-Zero, and with the extra XY movement freedom from the pandora style gantry, it allows more flexibility of placing probe docks.
+Any probe and toolhead combination that works with Tri-Zero should work on Hex-Zero, and with the extra XY movement freedom from the pandora style gantry, it allows more flexibility of placing probe docks. I did also create a simple mini klicky style probe for HX0 w/ MiniSB you can find <u>here</u>(link to mini klicky repo)
 
 
 
@@ -36,3 +36,18 @@ I want to extend a massive thanks to everyone that took a leap of faith building
 
 
 **PHOTO COLLAGE OF FIRST FEW BUILT HX0's**
+
+
+
+## Credits
+
+- Tri-zero
+- Pandora
+- V0
+- Beta Testers
+
+
+
+
+
+## Support
