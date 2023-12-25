@@ -4,6 +4,8 @@ At it's core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/
 
 ![Hex-Zero_Render](/Images/Renders/Hex-Zero_Render_Blue.png)
 
+
+
 ## What Differentiates Hex-Zero From Tri-Zero + Pandora Gantry?
 
 These are several of the major differentiating features of HX0:
@@ -19,7 +21,7 @@ These are several of the major differentiating features of HX0:
 
 ## So You Want To Build A Hex-Zero?
 
-The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing). Then with everything you need ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For the time being you will need to use the CAD as reference when building your HX0, but a detailed instruction manual is being created to be released at a later date!
+The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing) (*make sure to read the comments for help on what you'll need*). Then with everything ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For the time being you will need to use the CAD as reference when building your HX0, but a detailed instruction manual is being created to be released at a later date (*Insert Soon Trademark Meme*)!
 
 
 
@@ -35,14 +37,16 @@ I want to extend a massive thanks to everyone that took a leap of faith building
 
 ![Beta Testers Collage](/Images/Beta_Testers_Collage.jpg)
 
-(Credits in order of images left to right, Rahim Damji (*HX0.2*), Albino Deer, Siboor, Hud (*HX0.1*))
+Credits in order of images left to right: Rahim Damji (*HX0.2*), Albino Deer, Siboor (*HX0.3*), Hud (*HX0.1*)
+
+
 
 ## Credits
 
 - **[Zruncho3D](https://github.com/zruncho3d)**: Creator of Tri-Zero
 - **[MasturMynd](https://github.com/MasturMynd)**: Designer of Pandora's gantry
-- **[Nemgrea](https://github.com/nemgrea)**: Producer of Voron 0
-- **Beta Testers**: Rahim Damji (*HX0.2*), Hud (*HX0.1*), Albino Deer
+- **[Nemgrea](https://github.com/nemgrea)**: Producer of Voron 0!
+- **Beta Testers**: Rahim Damji (*HX0.2*), Hud (*HX0.1*), Albino Deer, And Many Other Wonderful People!
 
 
 
