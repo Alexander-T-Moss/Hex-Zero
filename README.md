@@ -19,4 +19,20 @@ These are several of the major differentiating features of HX0:
 
 ## So You Want To Build A Hex-Zero?
 
-The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing). Then with everything you need ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For the time being you will need to use the CAD as reference when building your HX0, but a detailed instruction manual is being created to be released at a later date! (ETA: Soon:tm:)
+The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing). Then with everything you need ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For the time being you will need to use the CAD as reference when building your HX0, but a detailed instruction manual is being created to be released at a later date!
+
+
+
+## Toolheads & Probes
+
+Any probe and toolhead combination that works with Tri-Zero should work on Hex-Zero, and with the extra XY movement freedom from the pandora style gantry, it allows more flexibility of placing probe docks.
+
+
+
+## Community Pre-Release Builds
+
+I want to extend a massive thanks to everyone that took a leap of faith building and testing this project in it's early stages, below is a collage of some HX0's built during the beta testing of this project :)
+
+
+
+**PHOTO COLLAGE OF FIRST FEW BUILT HX0's**
