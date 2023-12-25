@@ -35,7 +35,7 @@ I want to extend a massive thanks to everyone that took a leap of faith building
 
 ![Beta Testers Collage](/Images/Beta_Testers_Collage.jpg)
 
-
+(Credits in order of images left to right, Rahim Damji (*HX0.2*), Albino Deer, Siboor, Hud (*HX0.1*))
 
 ## Credits
 
