@@ -21,7 +21,13 @@ These are several of the major differentiating features of HX0:
 
 ## So You Want To Build A Hex-Zero?
 
-The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing) (*make sure to read the comments for help on what you'll need*). Then with everything ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For the time being you will need to use the CAD as reference when building your HX0, but a detailed instruction manual is being created to be released at a later date (*Insert Soon Trademark Meme*)!
+The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing) (*make sure to read the comments for help on what you'll need*). Then with everything ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For the time being you will need to use the CAD for a large portion of your build as reference when building your HX0, but a complete instruction manual is being created to be released at a later date (*Insert Soon Trademark Meme*)!
+
+
+
+## You Actually Read The Manual?
+
+By far the most time consuming part of this project is creating a build manual. So it is far from done, but the latest version of what is currently completed can be found [here](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing). If you notice anything wrong with it, please don't hesitate to point issues out to me so I can quickly resolve them, all I ask is you bear in mind that the manual is in a very early stage and still requires a lot of work to be completed :)
 
 
 
