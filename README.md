@@ -1,4 +1,4 @@
-# Hex-Zero
+# &#x2B22; Hex-Zero &#x2B22; 
 
 At it's core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/tri-zero) Z motion, with a revised [Pandora Gantry](https://github.com/MasturMynd/Pandora). Without the aforementioned, non of this project would've been possible, so a great amount of thanks is due for [zruncho3d](https://github.com/zruncho3d) and [MasturMynd](https://github.com/MasturMynd) whom ultimtely sent me down this rabbit hole!
 
