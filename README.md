@@ -31,11 +31,11 @@ Any probe and toolhead combination that works with Tri-Zero should work on Hex-Z
 
 
 
-## Community Pre-Release Builds
+## Community Beta Testing Builds
 
 I want to extend a massive thanks to everyone that took a leap of faith building and testing this project in it's early stages, below is a collage of some HX0's built during the beta testing of this project :)
 
-![Beta Testers Collage](/Images/Beta_Testing_Collage.jpg)
+![Beta Testing Collage](/Images/Beta_Testing_Collage.jpg)
 
 Credits in order of images left to right: Rahim Damji (*HX0.2*),  Hud (*HX0.1*), Siboor (*HX0.3*), Albino Deer (*HX0.4*)
 
