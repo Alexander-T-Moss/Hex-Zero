@@ -1,6 +1,6 @@
 # &#x2B22; Hex-Zero &#x2B22; 
 
-At it's core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/tri-zero) Z motion, with a revised [Pandora Gantry](https://github.com/MasturMynd/Pandora). Without the aforementioned, non of this project would've been possible, so a great amount of thanks is due for [zruncho3d](https://github.com/zruncho3d) and [MasturMynd](https://github.com/MasturMynd) whom ultimtely sent me down this rabbit hole!
+At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/tri-zero) Z motion, with a revised [Pandora Gantry](https://github.com/MasturMynd/Pandora). Without the aforementioned, none of this project would've been possible, so a great amount of thanks is due to [zruncho3d](https://github.com/zruncho3d) and [MasturMynd](https://github.com/MasturMynd) whom ultimately sent me down this rabbit hole!
 
 ![Hex-Zero_Render](/Images/Renders/Hex-Zero_Render_Blue.png)
 
@@ -21,25 +21,25 @@ These are several of the major differentiating features of HX0:
 
 ## So You Want To Build A Hex-Zero?
 
-The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing) (*make sure to read the comments for help on what you'll need*). Then with everything ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For the time being you will need to use the CAD for a large portion of your build as reference when building your HX0, but a complete instruction manual is being created to be released at a later date (*Insert Soon Trademark Meme*)!
+The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing) (*make sure to read the comments for help on what you'll need*). Then with everything ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For now, you will need to use the CAD for a large portion of your build as a reference when building your HX0, but a complete instruction manual is being created to be released later (*Insert Soon Trademark Meme*)!
 
 
 
-## You Actually Read The Manual?
+## You Read The Manual?
 
-By far the most time consuming part of this project is creating a build manual. So it is far from done, but the latest version of what is currently completed can be found [here](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing). If you notice anything wrong with it, please don't hesitate to point issues out to me so I can quickly resolve them, all I ask is you bear in mind that the manual is in a very early stage and still requires a lot of work to be completed :)
+By far the most time-consuming part of this project is creating a build manual. So it is far from done, but the latest version of what is currently completed can be found [here](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing). If you notice anything wrong with it, please don't hesitate to point issues out to me so I can quickly resolve them, all I ask is you bear in mind that the manual is in a very early stage and still requires a lot of work to be completed :)
 
 
 
 ## Toolheads & Probes
 
-Any probe and toolhead combination that works with Tri-Zero should work on Hex-Zero, and with the extra XY movement freedom from the pandora style gantry, it allows more flexibility of placing probe docks. I did also create a simple mini klicky style probe for HX0 w/ MiniSB you can find <u>here</u>(link to mini klicky repo)
+Any probe and tool head combination that works with Tri-Zero should work on Hex-Zero, and with the extra XY movement freedom from the Pandora-style gantry, it allows more flexibility in placing probe docks. I also created a simple Mini Klicky style probe for HX0 w/ MiniSB you can find <u>here</u>(link to Mini Klicky repo)
 
 
 
 ## Community Beta Testing Builds
 
-I want to extend a massive thanks to everyone that took a leap of faith building and testing this project in it's early stages, below is a collage of some HX0's built during the beta testing of this project :)
+I want to extend a massive thanks to everyone who took a leap of faith in building and testing this project in its early stages, below is a collage of some HX0s built during the beta testing of this project :)
 
 ![Beta Testing Collage](/Images/Beta_Testing_Collage.jpg)
 
@@ -58,4 +58,4 @@ Credits in order of images left to right: Rahim Damji (*HX0.2*),  Hud (*HX0.1*),
 
 ## Support
 
-With all things, nothing is truely perfect, so if you come across any issues, no matter how small, or find something you think can be improved, please don't hesitate to reach out with suggestions/feedback on discord in the [development thread](https://discord.com/channels/825469421346226226/1095450118553084085) for this project!
+With all things, nothing is truly perfect, so if you come across any issues, no matter how small, or find something you think can be improved, please don't hesitate to reach out with suggestions/feedback on discord in the [development thread](https://discord.com/channels/825469421346226226/1095450118553084085) for this project!
