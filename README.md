@@ -35,9 +35,9 @@ Any probe and toolhead combination that works with Tri-Zero should work on Hex-Z
 
 I want to extend a massive thanks to everyone that took a leap of faith building and testing this project in it's early stages, below is a collage of some HX0's built during the beta testing of this project :)
 
-![Beta Testers Collage](/Images/Beta_Testers_Collage.jpg)
+![Beta Testers Collage](/Images/Beta_Testing_Collage.jpg)
 
-Credits in order of images left to right: Rahim Damji (*HX0.2*), Albino Deer, Siboor (*HX0.3*), Hud (*HX0.1*)
+Credits in order of images left to right: Rahim Damji (*HX0.2*),  Hud (*HX0.1*), Siboor (*HX0.3*), Albino Deer (*HX0.4*)
 
 
 
@@ -46,7 +46,7 @@ Credits in order of images left to right: Rahim Damji (*HX0.2*), Albino Deer, Si
 - **[Zruncho3D](https://github.com/zruncho3d)**: Creator of Tri-Zero
 - **[MasturMynd](https://github.com/MasturMynd)**: Designer of Pandora's gantry
 - **[Nemgrea](https://github.com/nemgrea)**: Producer of Voron 0!
-- **Beta Testers**: Rahim Damji (*HX0.2*), Hud (*HX0.1*), Albino Deer, And Many Other Wonderful People!
+- **Beta Testers**: Rahim Damji (*HX0.2*), Hud (*HX0.1*), Albino Deer (*HX0.4*), And Many Other Wonderful People!
 
 
 
