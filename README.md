@@ -52,7 +52,6 @@ Credits in order of images left to right: Rahim Damji (*HX0.2*),  Hud (*HX0.1*),
 - **[Zruncho3D](https://github.com/zruncho3d)**: Creator of Tri-Zero
 - **[MasturMynd](https://github.com/MasturMynd)**: Designer of Pandora's gantry
 - **[Nemgrea](https://github.com/nemgrea)**: Producer of Voron 0!
-- **Beta Testers**: Rahim Damji (*HX0.2*), Hud (*HX0.1*), Albino Deer (*HX0.4*), And Many Other Wonderful People!
 
 
 
