@@ -33,7 +33,7 @@ By far the most time-consuming part of this project is creating a build manual. 
 
 ## Toolheads & Probes
 
-Any probe and tool head combination that works with Tri-Zero should work on Hex-Zero, and with the extra XY movement freedom from the Pandora-style gantry, it allows more flexibility in placing probe docks. I also created a simple Mini Klicky style probe for HX0 w/ MiniSB you can find <u>here</u>(link to Mini Klicky repo)
+Any probe and tool head combination that works with Tri-Zero should work on Hex-Zero, and with the extra XY movement freedom from the Pandora-style gantry, it allows more flexibility in placing probe docks.
 
 
 
