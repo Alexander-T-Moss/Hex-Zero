@@ -58,6 +58,9 @@ Credits in order of images left to right: Rahim Damji (*HX0.2*),  Hud (*HX0.1*),
 
 ### Can I serial a HX0 as a V0?
 **Yes**. HX0's can be serialised as a V0 _(assuming you are not converting an existing serialised V0_) and also get an HX0 serial to display on the printer!
+
+### How Much Does It Cost To Convert My V0 To A HX0
+Around **£100/$125/€115** to **£150/$190/€175**. Now you might be thinking why such a range? Well, the cost is entirely dependent on what you already have and how Gucci you want to be when buying parts, but you can convert a V0 to a HX0 somewhere in this region (_conservative estimate_) if not lower!
  
 ## Support
 
