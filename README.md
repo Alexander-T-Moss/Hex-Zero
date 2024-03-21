@@ -66,4 +66,4 @@ There is an included jig to drill the holes making it rather easy, and as these 
  
 ## Support
 
-With all things, nothing is truly perfect, so if you come across any issues, no matter how small, or find something you think can be improved, please don't hesitate to reach out with suggestions/feedback on discord in the [development thread](https://discord.com/channels/825469421346226226/1095450118553084085) for this project!
+With all things, nothing is truly perfect, so if you come across any issues, no matter how small, or find something you think can be improved, please don't hesitate to reach out with suggestions/feedback on the DOOMCUBE discord server in the [dedicated development channel](https://discord.com/channels/825469421346226226/1095450118553084085) for this project!
