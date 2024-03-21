@@ -1,5 +1,7 @@
 # &#x2B22; Questions And Answers &#x2B22;
-Here is a list of common queries answered that you may have about Hex-Zero
+![Hex-Zero_Banner_Image](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Images/Renders/Hex-Zero_Render_Toolhead_Banner.png)
+
+
 ## Can I serial a HX0 as a V0?
 **Yes**. HX0s can be serialised as a V0 (_assuming you are not converting an existing serialised V0_) while also receiving a HX0 serial to display on the printer!
 
