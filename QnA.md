@@ -19,3 +19,7 @@ Fortunately, these additional extrusions are in lengths that can typically be fo
 If you want to mount the rear extrusion, drill two holes to accommodate it. With the printed placeholder, however, you can avoid drilling holes, but I strongly advise you to drill the necessary holes.
 
 There is a jig included to drill the holes, making it rather simple, and because these holes are only to allow an Allen key through to tighten a blind joint bolt, they do not need to be accurate, so there is no need to go for sub-mm or anything silly precise with them!
+
+# Still Got Questions?
+
+Please feel free to reach out on the [dedicated development channel](https://discord.com/channels/825469421346226226/1220161815455989800) for this project in the doomcube discord server!
