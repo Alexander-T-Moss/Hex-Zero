@@ -1,14 +1,12 @@
 # &#x2B22; Hex-Zero &#x2B22; 
 
+At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/tri-zero) Z motion, with a revised [Pandora Gantry](https://github.com/MasturMynd/Pandora). Without the aforementioned, none of this project would've been possible, so a great amount of thanks is due to [zruncho3d](https://github.com/zruncho3d) and [MasturMynd](https://github.com/MasturMynd) whom inderectly sent me down this rabbit hole!
+
 ![Hex-Zero_Render](/Images/Renders/Hex-Zero_Cover_Render.png)
 
-[You can find the conversion BOM and sourcing guide here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing)
+- [BOM And Sourcing Guide](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing)
 
-[The manual, if you read them, lives here](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing)
-
-
-# What Is It?
-At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/tri-zero) Z motion, with a revised [Pandora Gantry](https://github.com/MasturMynd/Pandora). Without the aforementioned, none of this project would've been possible, so a great amount of thanks is due to [zruncho3d](https://github.com/zruncho3d) and [MasturMynd](https://github.com/MasturMynd) whom ultimately sent me down this rabbit hole!
+- [Very Early Release Manual](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing) (if you read manuals)
 
 When I set out on this project, I initially intended for this to be a simple mod for Tri-Zero only to be used by myself, but oh boy did it escalate quickly into becoming its own standalone project with many people (_I am endlessly grateful for_) beta testing this and helping it become it's own entity. As it stands now Hex-Zero is a platform for some future projects I have planned!
 
