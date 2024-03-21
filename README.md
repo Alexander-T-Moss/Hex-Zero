@@ -46,4 +46,4 @@ Credits in order of images left to right: Rahim Damji (*HX0.2*),  Hud (*HX0.1*),
  
 ## Support
 
-With all things, nothing is truly perfect, so if you come across any issues, no matter how small, or find something you think can be improved, please don't hesitate to reach out with suggestions/feedback on the DOOMCUBE discord server in the [dedicated development channel](https://discord.com/channels/825469421346226226/1095450118553084085) for this project!
+With all things, nothing is truly perfect, so if you come across any issues, no matter how small, or find something you think can be improved, please don't hesitate to reach out with suggestions/feedback on the DOOMCUBE discord server in the [dedicated development channel](https://discord.com/channels/825469421346226226/1220161815455989800) for this project!
