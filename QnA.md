@@ -2,9 +2,6 @@
 ![Hex-Zero_Banner_Image](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Images/Renders/Hex-Zero_Render_Toolhead_Banner.png)
 
 
-## Can I serial a HX0 as a V0?
-**Yes**. HX0s can be serialised as a V0 (_assuming you are not converting an existing serialised V0_) while also receiving a HX0 serial to display on the printer!
-
 ## How Much Does It Cost To Convert My V0 To A HX0
 Approximately **£100/$125/€115** to **£150/$190/€175**. You may be wondering why there is such a wide range. The cost is entirely dependent on what you already have and how Gucci you want to be when purchasing parts, but you can convert a V0 to a HX0 for somewhere in this range (_conservative estimate_), if not less!
 
@@ -21,6 +18,9 @@ Fortunately, these additional extrusions are in lengths that can typically be fo
 If you want to mount the rear extrusion, drill two holes to accommodate it. With the printed placeholder, however, you can avoid drilling holes, but I strongly advise you to drill the necessary holes.
 
 There is a jig included to drill the holes, making it rather simple, and because these holes are only to allow an Allen key through to tighten a blind joint bolt, they do not need to be accurate, so there is no need to go for sub-mm or anything silly precise with them!
+
+## Can I Serial A HX0 As a V0?
+**Yes**. HX0s can be serialised as a V0 (_assuming you are not converting an existing serialised V0_) while also receiving a HX0 serial to display on the printer!
 
 ## What Probe Should I Use?
 - Need to write about this in a separate readme, and will link to it here when complete
