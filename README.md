@@ -1,20 +1,19 @@
 # &#x2B22; Hex-Zero &#x2B22; 
 
-At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/tri-zero) Z motion, with a revised [Pandora Gantry](https://github.com/MasturMynd/Pandora). Without the aforementioned, none of this project would've been possible, so a great amount of thanks is due to [zruncho3d](https://github.com/zruncho3d) and [MasturMynd](https://github.com/MasturMynd) whom inderectly sent me down this rabbit hole!
+At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/tri-zero) Z motion, with a revised [Pandora Gantry](https://github.com/MasturMynd/Pandora). Without the aforementioned, none of this project would've been possible, so a great amount of thanks is due to [zruncho3d](https://github.com/zruncho3d) and [MasturMynd](https://github.com/MasturMynd) whom indirectly sent me down this rabbit hole!
 
 ![Hex-Zero_Render](/Images/Renders/Hex-Zero_Cover_Render.png)
 
-- [BOM And Sourcing Guide](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing)
+[BOM And Sourcing Guide](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing)
 
-- [Very Early Release Manual](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing) (if you read manuals)
+[Very Early Release Manual](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing)
 
-When I set out on this project, I initially intended for this to be a simple mod for Tri-Zero only to be used by myself, but oh boy did it escalate quickly into becoming its own standalone project with many people (_I am endlessly grateful for_) beta testing this and helping it become it's own entity. As it stands now Hex-Zero is a platform for some future projects I have planned!
-
+Common Questions And Answers
 
 
 ## What Differentiates Hex-Zero From Tri-Zero + Pandora Gantry?
 
-When I started work on Hex-Zero I wanted to fix my main concern with Tri-Zero, the robustness of the flying bed, along with that I preferred the more honeycomb look of the V0.2 skirts, so also wanted to incorporate that style into the Hex-Zero skirts. I also noticed some other compatibility issues with how I intended to build so would need to address them. Below is a short list summarising some of the major tweaks and changes you'll see when comparing Hex-Zero to Tri-Zero + Pandora Gantry:
+When I started working on Hex-Zero, I wanted to address my main concern with Tri-Zero, which was the robustness of the flying bed. I also liked the more honeycomb look of the V0.2 skirts and wanted to incorporate that style into the Hex-Zero skirts. I also noticed some other compatibility issues with how I intended to build things so would need to address them. Below is a summary of some of the major tweaks and changes you'll notice when comparing Hex-Zero to Tri-Zero + Pandora Gantry.
 
 1. Option to either **use bolts** on all bearing stacks **or pins** on all bearing stacks
 2. Use **KGLM-03** spherical bearings in the flying bed Z joints (_improve rigidity_)
@@ -23,25 +22,7 @@ When I started work on Hex-Zero I wanted to fix my main concern with Tri-Zero, t
 5. Optimize printed parts to be **easier to print**
 6. **More best-agon hexagons!**
 
-Another often overlooked aspect of projects like these is documentation (_and is also by far the most time-consuming part of doing this_). When I started this journey (_before even designing anything_) I had many questions about the compatibility of hardware etc.. "if I do thing A, can I also do thing B", or "to do thing C, what do I need for thing D", or "will doing thing E even work!". To make this project as accessible as possible, I hope to create documentation and resources that answer as many common questions as possible!
-
-
-## So You Want To Build A Hex-Zero?
-
-The bill of materials to convert a V0.2 to a HX0 can be found [here](https://docs.google.com/spreadsheets/d/1F7fQtRNNPEZ1YoKCzFcIuKrkByZ1SoN8qf_lLwIh3ww/edit?usp=sharing) (*make sure to read the comments for help on what you'll need*). Then with everything ordered, you can get cracking printing the [STLs](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main/STLs). For now, you will need to use the CAD for a large portion of your build as a reference when building your HX0, but a complete instruction manual is being created to be released later (*Insert Soon Trademark Meme*)!
-
-
-
-## You Read The Manual?
-
-By far the most time-consuming part of this project is creating a build manual. So it is far from done, but the latest version of what is currently completed can be found [here](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing). If you notice anything wrong with it, please don't hesitate to point issues out to me so I can quickly resolve them, all I ask is you bear in mind that the manual is in a very early stage and still requires a lot of work to be completed :)
-
-
-
-## Toolheads & Probes
-
-Any probe and tool head combination that works with Tri-Zero should work on Hex-Zero, and with the extra XY movement freedom from the Pandora-style gantry, it allows more flexibility in placing probe docks.
-
+Documentation is another frequently overlooked aspect of projects like these (and by far the most time-consuming thing to complete). When I first started this journey (_before even designing anything_), I had many questions about hardware compatibility, such as "If I do thing A, can I also do thing B", "To do thing C, what do I need for thing D" and "Will doing thing E even work!" To make this project as accessible as possible, I intend to develop documentation and resources that address as many common questions as possible!
 
 
 ## Community Beta Testing Builds
