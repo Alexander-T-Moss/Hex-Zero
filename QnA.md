@@ -1,22 +1,21 @@
-## Common Questions And Answers
----
+# &#x2B22; Questions And Answers &#x2B22;
+Here is a list of common queries answered that you may have about Hex-Zero
+## Can I serial a HX0 as a V0?
+**Yes**. HX0s can be serialised as a V0 (_assuming you are not converting an existing serialised V0_) while also receiving a HX0 serial to display on the printer!
 
-### Can I serial a HX0 as a V0?
-**Yes**. HX0's can be serialised as a V0 _(assuming you are not converting an existing serialised V0_) and also get a HX0 serial to display on the printer!
+## How Much Does It Cost To Convert My V0 To A HX0
+Approximately **£100/$125/€115** to **£150/$190/€175**. You may be wondering why there is such a wide range. The cost is entirely dependent on what you already have and how Gucci you want to be when purchasing parts, but you can convert a V0 to a HX0 for somewhere in this range (_conservative estimate_), if not less!
 
-### How Much Does It Cost To Convert My V0 To A HX0
-Around **£100/$125/€115** to **£150/$190/€175**. Now you might be thinking why such a range? Well, the cost is entirely dependent on what you already have and how Gucci you want to be when buying parts, but you can convert a V0 to a HX0 somewhere in this region (_conservative estimate_) if not lower!
+## Do I Need To Buy Extra Extrusion?
+Technically, no, but I dislike wording things like that, so allow me to explain. 
 
-### Do I Need To Buy Extra Extrusion?
-Technically no, but I dislike wording things like that so let me explain. 
+If you have a V0 with an extrusion bed, you can build the flying bed using the stock V0 bed extrusions and a printed placeholder at the back of the printer. However, LDO has begun shipping kits with a kirigami and no bed extrusions, which means you will need to source at least one 100mm and one 200mm (or just three 100mm) extrusions for the flying bed in this case, as well as an additional 200mm extrusion for the printer's rear or use the printed place holder.
 
-If you have V0 with an extrusion bed, then you can build the flying bed with the stock V0 bed extrusions, and use a printed placeholder at the rear of the printer. However, LDO has started shipping kits with a kirigami and no bed extrusions, this means you will need to source at least 1x 100mm and 1x 200mm (or just 3x 100mm) extrusions for the flying bed in this case and either source an additional 200mm extrusion for the rear of the printer or use the printed place holder.
+All that being said, the stock V0 extrusion bed is made up of three 100mm extrusions, and ideally, you want to use a single 200mm instead of two 100mm on the front of the flying bed, so you may still need to source 200mm extrusions for the flying bed and while you're at it, get one for the back of the printer. I should also clarify that the additional rear extrusion is not structural and is only there to make mounting skirts easier at the back of the printer!
 
-All this said it should be noted that the stock V0 extrusion bed consists of 3x 100mm extrusions and ideally you want to use a single 200mm instead of 2x 100mm on the front of the flying bed, so you still might want to source 200mm extrusions for the flying bed and the rear of the printer. I should also make clear that the additional rear extrusion isn't structural and is purely to make mounting skirts easier at the rear of the printer!
+Fortunately, these additional extrusions are in lengths that can typically be found pre-cut and tapped
 
-Fortunately, these additional extrusions are in lengths that can normally be found pre-cut and tapped
+## Do I Need To Drill Holes In The Existing V0 Extrusions
+If you want to mount the rear extrusion, drill two holes to accommodate it. With the printed placeholder, however, you can avoid drilling holes, but I strongly advise you to drill the necessary holes.
 
-### Do I Need To Drill Holes In The Existing V0 Extrusions
-If you want to mount the rear extrusion, then you need to drill 2 holes to accommodate this. With the printed placeholder though you can get away with not drilling holes, but I highly recommend you drill the needed holes.
-
-There is an included jig to drill the holes making it rather easy, and as these holes are just to be able to get an Allen key through to tighten a blind joint bolt, they don't need to be accurate so there is no stress to get sub-mm or anything silly precision with them!
+There is a jig included to drill the holes, making it rather simple, and because these holes are only to allow an Allen key through to tighten a blind joint bolt, they do not need to be accurate, so there is no need to go for sub-mm or anything silly precise with them!
