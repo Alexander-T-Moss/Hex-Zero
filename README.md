@@ -38,9 +38,9 @@ Credits in order of images left to right: Rahim Damji (*HX0.2*),  Hud (*HX0.1*),
 
 ## Credits
 
-- **[Zruncho3D](https://github.com/zruncho3d)**: Creator of Tri-Zero
-- **[MasturMynd](https://github.com/MasturMynd)**: Designer of Pandora's gantry
-- **[Nemgrea](https://github.com/nemgrea)**: Producer of Voron 0!
+- **[Zruncho3D](https://github.com/zruncho3d)**: Creator of Tri-Zero, what started this project
+- **[MasturMynd](https://github.com/MasturMynd)**: Designer of the amazing Pandora's gantry
+- **[Nemgrea](https://github.com/nemgrea)**: For creating V0.2, the real root of this project
 
 
  
