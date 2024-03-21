@@ -1,10 +1,12 @@
 # &#x2B22; Hex-Zero &#x2B22; 
 
+![Hex-Zero_Render](/Images/Renders/Hex-Zero_Cover_Render.png)
+
 At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/tri-zero) Z motion, with a revised [Pandora Gantry](https://github.com/MasturMynd/Pandora). Without the aforementioned, none of this project would've been possible, so a great amount of thanks is due to [zruncho3d](https://github.com/zruncho3d) and [MasturMynd](https://github.com/MasturMynd) whom ultimately sent me down this rabbit hole!
 
 When I set out on this project, I initially intended for this to be a simple mod for Tri-Zero only to be used by myself, but oh boy did it escalate quickly into becoming its own standalone project with many people (_I am endlessly grateful for_) beta testing this and helping it become it's own entity. As it stands now Hex-Zero is a platform for some future projects I have planned!
 
-![Hex-Zero_Render](/Images/Renders/Hex-Zero_Render_Blue.png)
+
 
 ## What Differentiates Hex-Zero From Tri-Zero + Pandora Gantry?
 
