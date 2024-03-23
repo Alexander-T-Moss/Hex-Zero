@@ -30,9 +30,9 @@ Documentation is another frequently overlooked aspect of projects like these (an
 
 I want to extend a massive thanks to everyone who took a leap of faith in building and testing this project in its early stages, below is a collage of some HX0s built during the beta testing of this project :)
 
-![Beta Testing Collage](/Images/Beta_Testing_Collage.jpg)
+![Beta Testing Collage](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Images/Beta_Tester_Builds/Hex-Zero_Collage_23032024.jpg)
 
-Credits in order of images left to right: Rahim Damji (*HX0.2*),  Hud (*HX0.1*), Siboor (*HX0.3*), Albino Deer (*HX0.4*)
+Credits in order of images left to right: Hud (*HX0.1*),  Rahim Damji (*HX0.2*), Siboor (*HX0.3*), Spicy Pesto (*HX0.5*), Albino Dear (*HX0.4*), Sidjdosjsid (*HX0.ToBe*)
 
 
 
