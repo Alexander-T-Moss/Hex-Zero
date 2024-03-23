@@ -22,9 +22,6 @@ There is a jig included to drill the holes, making it rather simple, and because
 ## Can I Serial A HX0 As a V0?
 **Yes**. HX0s can be serialised as a V0 (_assuming you are not converting an existing serialised V0_) while also receiving a HX0 serial to display on the printer!
 
-## What Probe Should I Use?
-- Need to write about this in a separate readme, and will link to it here when complete
-
 # Still Got Questions?
 
 Please feel free to reach out on the [dedicated development channel](https://discord.com/channels/825469421346226226/1220161815455989800) for this project in the doomcube discord server!
