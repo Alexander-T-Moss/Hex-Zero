@@ -41,6 +41,7 @@ Credits in order of images left to right: Hud (*HX0.1*),  Rahim Damji (*HX0.2*),
 - **[Zruncho3D](https://github.com/zruncho3d)**: Creator of Tri-Zero, what started this project
 - **[MasturMynd](https://github.com/MasturMynd)**: Designer of the amazing Pandora's gantry
 - **[Nemgrea](https://github.com/nemgrea)**: For creating V0.2, the real root of this project
+- **[Chirpy](https://github.com/chirpy2605)**: The brains behind the wonderful dragon burner toolhead
 
 
  
