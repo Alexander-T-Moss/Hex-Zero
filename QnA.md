@@ -2,7 +2,7 @@
 ![Hex-Zero_Banner_Image](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Images/Renders/Hex-Zero_Render_Toolhead_Banner.png)
 
 
-## How Much Does It Cost To Convert My V0 To A HX0
+## How Much Does It Cost To Convert My V0 To A HX0?
 Approximately **£100/$125/€115** to **£150/$190/€175**. You may be wondering why there is such a wide range. The cost is entirely dependent on what you already have and how Gucci you want to be when purchasing parts, but you can convert a V0 to a HX0 for somewhere in this range (_conservative estimate_), if not less!
 
 ## What Probe Should I Use With My HX0?
@@ -31,7 +31,7 @@ All that being said, the stock V0 extrusion bed is made up of three 100mm extrus
 
 Fortunately, these additional extrusions are in lengths that can typically be found pre-cut and tapped
 
-## Do I Need To Drill Holes In The Existing V0 Extrusions
+## Do I Need To Drill Holes In The Existing V0 Extrusions?
 If you want to mount the rear extrusion, drill two holes to accommodate it. With the printed placeholder, however, you can avoid drilling holes, but I strongly advise you to drill the necessary holes.
 
 There is a jig included to drill the holes, making it rather simple, and because these holes are only to allow an Allen key through to tighten a blind joint bolt, they do not need to be accurate, so there is no need to go for sub-mm or anything silly precise with them!
