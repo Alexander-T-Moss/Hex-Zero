@@ -11,6 +11,19 @@
 | | [Handles](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/Handles) | Somewhere to grab onto to lift the printer up |
 | MechaXx |[Waveshare 2.8 Screen](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/Waveshare_28_Screen) | Waveshare 2.8 screen front skirt mount |
 
+.
+
+.
+
+.
+
+.
+
+.
+
+# Information For Adding A Mod
+Below is a quick summary of changes required for submitting a mod to the mods folder
+
 ## Table Structure
 Information for updating the table for the addition/modification of a mod
 - Put the name of the mod hyperlinked to the location of the mod in the repo
@@ -38,3 +51,6 @@ The `Mods` folder uses a 2 layer folder structure to organize all the mods
 |  |  | Mod F From Person 3 |
 
 _*Note: If someone has a single mod it still has an author folder_
+
+## What Must A Mod Folder Needs To Include
+At a bare minimum, each mod folder should contain the accreditation (_ideally a .step and/or .f3d file_), accreditation (_ideally oriented correctly for printing_) a **screenshot from CAD or a photo** of the mod installed and a short `README.md` providing the relevant information for the mod
