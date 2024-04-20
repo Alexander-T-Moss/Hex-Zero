@@ -7,8 +7,8 @@
 
 |              Author              |             Mod Name             |            Description           |
 | -------------------------------- | -------------------------------- | -------------------------------- |
-| Alexander T-Moss |  [3mm Panel Clips](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/Alexander-T-Moss/3mm_Panel_Clips) | Allows the use of 3mm foam tape |
-| | [Handles](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/Alexander-T-Moss/Handles) | Somewhere to grab onto to lift the printer up |
+| Alexander T-Moss |  [3mm Panel Clips](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/Alexander_T-Moss/3mm_Panel_Clips) | Allows the use of 3mm foam tape |
+| | [Handles](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/Alexander_T-Moss/Handles) | Somewhere to grab onto to lift the printer up |
 | MechaXx |[Waveshare 2.8 Screen](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/MechaXx/Waveshare_28_Screen) | Waveshare 2.8 screen front skirt mount |
 
 .
