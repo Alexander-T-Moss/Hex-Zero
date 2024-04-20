@@ -6,7 +6,7 @@ You need to have good inter-layer adhesion in the print of these handles to make
 
 ## Where To Install
 ![image](https://github.com/Alexander-T-Moss/Hex-Zero/assets/54496326/402bcebe-7aee-4caf-a0a3-537305239ca0)
-Mount on the top-most frame extrusions and double as side panel retaining clips (_replacing the mid clip that's originally there_)
+Mount on the top-most frame extrusions and double as side panel retaining clips (_replacing the mid clip that's originally there_). You will need to pre-load an additional M3 Hexnut if you can't use LDO drop-in nuts, to be able to install the handles!
 
 ## Required Hardware
 | Name | Quantity |
