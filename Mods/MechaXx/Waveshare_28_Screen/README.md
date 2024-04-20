@@ -8,7 +8,7 @@ Front skirt mount and cover for installing a [Waveshare 2.8 Screen](https://www.
 | Name | Quantity |
 | --- | --- |
 | [Waveshare 2.8 Inch Display](https://www.waveshare.com/2.8inch-dsi-lcd.htm) | 1x |
-| M3x6 BHCS | 4x |
+| M2.5x6 BHCS | 4x |
 
 ## Credits
 This display mount was initially created by [HartK](https://github.com/hartk1213/VoronUsers/tree/master/printer_mods/hartk1213/Voron0.2_2.8_WaveshareDisplay), then adapted by MechaXx for HX0, and finally tweaked by myself to integrate into the official HX0 CAD assembly. Thank you to MechaXx for initially implementing this into your HX0 build!
