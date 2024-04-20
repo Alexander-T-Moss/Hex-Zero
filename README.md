@@ -10,6 +10,8 @@ At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/t
 
 [Common Questions And Answers](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/QnA.md)
 
+[Community Mods For HX0](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods)
+
 
 ## What Differentiates Hex-Zero From Tri-Zero + Pandora Gantry?
 
