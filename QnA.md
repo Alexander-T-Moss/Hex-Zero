@@ -16,7 +16,11 @@ Below is a table detailing some probe and dock combinations and a short pro/con 
 
 | Toolhead Compatibility | Probe | Dock | Pro | Con |
 | --- | --- | --- | --- | --- |
-| DB | [ZeroClick](https://github.com/zruncho3d/ZeroClick?tab=readme-ov-file) | `Centre` | Nice dock postion | Toolhead mount may collide with rear z verticle extrusions |
+| DB & MiniSB | [Klicky]() | [Multple Options](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v0#probe-dock-mounts-1) | Well-Documented and community tested | May reduce useable print area and requires homing to front left corner |
+|  | [SlideSwipe](https://github.com/chestwood96/SlideSwipe) | N/a | No issues with travel restrictions/collisions | More complex than other probes and needs additional hardware |
+| DB Only | [ZeroClick](https://github.com/zruncho3d/ZeroClick?tab=readme-ov-file) | `Centre` | Nice dock position | Toolhead mount may collide with rear z verticle extrusions |
+
+It's also worth noting that HX0 is designed and tested with DB in mind and not MiniSB, so your mileage with MiniSB may vary. Also each of the recommended probes pro/cons above assume using the DB cowl with it's respective probe mount
 
 ## Do I Need To Buy Extra Extrusion?
 Technically, no, but I dislike wording things like that, so allow me to explain. 
