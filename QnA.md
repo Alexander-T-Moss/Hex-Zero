@@ -6,11 +6,17 @@
 Approximately **£100/$125/€115** to **£150/$190/€175**. You may be wondering why there is such a wide range. The cost is entirely dependent on what you already have and how Gucci you want to be when purchasing parts, but you can convert a V0 to a HX0 for somewhere in this range (_conservative estimate_), if not less!
 
 ## What Probe Should I Use With My HX0?
-There are a few probe options to choose from, all with pros and cons depending on what tool head you are using but all need the same considerations when deciding what is best for your HX0 build.
+There are a few probe options to choose from, all with pros and cons and options depending on what tool head you are using but all need the same general considerations when deciding what is best for your HX0 build!
 
 1. Where is the probe going to dock (_if applicable_)? - Ideally, the dock should put the probe out of the way of the tool head during normal printing. Thanks to the additional XY travel from the Pandora-style gantry in HX0, you get a bit more freedom in probe dock placement. I recommend using a probe mount dock that situates the probe in the rear left corner (_looking into the printer_)
 
-2. How does the probe attach to the tool head (_if applicable_)? Will the additional parts for where the probe attaches to the tool head cause areas where parts will collide when the tool head moves? The main area to pay consideration to is the rear vertical z extrusions. You can often configure the printer in a way to avoid this area to prevent a possible collsion
+2. How does the probe attach to the tool head (_if applicable_)? Will the additional parts for where the probe attaches to the tool head cause areas where parts will collide when the tool head moves? The main area to pay consideration to is the rear vertical z extrusions. You can often configure the printer in a way to avoid this area to prevent a possible collision
+
+Below is a table detailing some probe and dock combinations and a short pro/con summary for them
+
+| Toolhead Compatibility | Probe | Dock | Pro | Con |
+| --- | --- | --- | --- | --- |
+| DB | [ZeroClick](https://github.com/zruncho3d/ZeroClick?tab=readme-ov-file) | `Centre` | Nice dock postion | Toolhead mount may collide with rear z verticle extrusions |
 
 ## Do I Need To Buy Extra Extrusion?
 Technically, no, but I dislike wording things like that, so allow me to explain. 
