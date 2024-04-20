@@ -45,7 +45,7 @@ Credits in order of images left to right: Hud (*HX0.1*),  Rahim Damji (*HX0.2*),
 - **[Nemgrea](https://github.com/nemgrea)**: For creating [V0.2](https://vorondesign.com/voron0.2), the real root of this project
 - **[Chirpy](https://github.com/chirpy2605)**: The brains behind the wonderful [dragon burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) toolhead
 
-
+If you accidentally stumbled across this project, checkout other similar projects on the [3D Printers... For Ants Webpage](https://3dprintersforants.com/)
  
 ## Support
 
