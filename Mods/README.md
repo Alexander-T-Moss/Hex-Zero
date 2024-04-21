@@ -11,15 +11,10 @@
 | | [Handles](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/Alexander_T-Moss/Handles) | Somewhere to grab onto to lift the printer up |
 | MechaXx |[Waveshare 2.8 Screen](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods/MechaXx/Waveshare_28_Screen) | Waveshare 2.8 screen front skirt mount |
 
-.
+<br>
+<br>
+<br>
 
-.
-
-.
-
-.
-
-.
 
 # Information For Adding A Mod
 Below is a quick summary of changes required for submitting a mod to the mods folder
