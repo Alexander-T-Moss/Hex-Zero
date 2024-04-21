@@ -57,7 +57,7 @@ EndSection
 
 Then save this change by pressing `CTRL + X` then `Y` and finally hitting `ENTER`
 
-8. Finally, we need to edit the libin config, so enter into the command line `sudo nano /usr/share/X11/xorg.conf.d/40-libinput.conf`
+8. Finally, we need to edit the libinput config, so enter into the command line `sudo nano /usr/share/X11/xorg.conf.d/40-libinput.conf`
 
 9. In the file that opened, find the following section
 
