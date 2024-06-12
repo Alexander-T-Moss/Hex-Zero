@@ -4,9 +4,10 @@ Mounts for 3010 blower fans on the underside of the bed
 ## Tip For Wiring
 You may have two spare wago's on the bed `centre_brace` that could be used for wiring the fans together, and then to the printer in a quickly detachable way
 
-## Where To Install
-![image](https://github.com/Alexander-T-Moss/Hex-Zero/assets/54496326/402bcebe-7aee-4caf-a0a3-537305239ca0)
-Mount on the top-most frame extrusions and double as side panel retaining clips (_replacing the mid clip that's originally there_). You will need to pre-load an additional M3 Hexnut if you can't use LDO drop-in nuts, to be able to install the handles!
+## Mounting/Configuration Options
+| **Dual Fans At The Rear** | **Single Fan At The Rear** | **Two Single Fans At The Front** |
+| ![image]() | ![image]() | ![image]() |
+Just note, if using an LDO bed thermistor breakout PCB, you will still need to mount that to the side of a bed extrusion, so plan around that accordingly :)
 
 ## Required Hardware
 | Name | Quantity |
