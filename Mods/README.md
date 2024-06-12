@@ -10,6 +10,7 @@
 | Alexander T-Moss |  [3mm Panel Clips](/Mods/Alexander_T-Moss/3mm_Panel_Clips) | Allows the use of 3mm foam tape |
 | | [Handles](/Mods/Alexander_T-Moss/Handles) | Somewhere to grab onto to lift the printer up |
 | | [Full Height Panels](/Mods/Alexander_T-Moss/Full_Height_Panels) | Hard mounted top hat and info on using full height panels (BoxZero esque)|
+| | [Bed Fans](/Mods/Alexander_T-Moss/Bed_Fans) | Mounts for 3010 blower fans on the underside of the bed |
 | MechaXx |[Waveshare 2.8 Screen](/Mods/MechaXx/Waveshare_28_Screen) | Waveshare 2.8 screen front skirt mount |
 
 <br>
