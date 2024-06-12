@@ -6,8 +6,8 @@ You may have two spare wago's on the bed `centre_brace` that could be used for w
 
 ## Mounting/Configuration Options
 | **Dual Fans At The Rear** | **Single Fan At The Rear** | **Two Single Fans At The Front** |
-| ![image]() | ![image]() | ![image]() |
-Just note, if using an LDO bed thermistor breakout PCB, you will still need to mount that to the side of a bed extrusion, so plan around that accordingly :)
+| --- | --- | --- |
+| ![image](/Mods/Alexander_T-Moss/Bed_Fans/Images/dual_fan.png) | ![image](/Mods/Alexander_T-Moss/Bed_Fans/Images/single_fan_rear.png) | ![image](/Mods/Alexander_T-Moss/Bed_Fans/Images/single_fan_2x_front.png) |
 
 ## Required Hardware
 | Name | Quantity |
