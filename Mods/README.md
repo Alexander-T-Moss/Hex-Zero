@@ -1,4 +1,4 @@
-# &#x2B22; Mods &#x2B22; 
+# &#x2B22; Mods & Additions &#x2B22; 
 
 ![Waveshare_Banner_Image](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Images/Renders/Hex-Zero_Render_Waveshare_Mod_Banner.png)
 
