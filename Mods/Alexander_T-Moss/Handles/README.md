@@ -5,8 +5,9 @@ Simple handles to give somewhere to grab onto for lifting the printer up
 You need to have good inter-layer adhesion in the print of these handles to make sure they don't crack or worse case snap... I recommend printing slightly hotter than you usually would and using a good quality filament (especially not any that have additives in to make the filament print matt)
 
 ## Where To Install
-![image](https://github.com/Alexander-T-Moss/Hex-Zero/assets/54496326/402bcebe-7aee-4caf-a0a3-537305239ca0)
 Mount on the top-most frame extrusions and double as side panel retaining clips (_replacing the mid clip that's originally there_). You will need to pre-load an additional M3 Hexnut if you can't use LDO drop-in nuts, to be able to install the handles!
+
+![image](https://github.com/Alexander-T-Moss/Hex-Zero/assets/54496326/402bcebe-7aee-4caf-a0a3-537305239ca0)
 
 ## Required Hardware
 | Name | Quantity |
