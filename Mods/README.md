@@ -11,7 +11,7 @@
 | | [Handles](/Mods/Alexander_T-Moss/Handles) | Somewhere to grab onto to lift the printer up |
 | | [Full Height Panels](/Mods/Alexander_T-Moss/Full_Height_Panels) | Hard mounted top hat and info on using full height panels (BoxZero esque)|
 | | [Bed Fans](/Mods/Alexander_T-Moss/Bed_Fans) | Mounts for 3010 blower fans on the underside of the bed |
-| | [Hex Panels](/Mods/Alexander_T-Moss/Hex-Panels) | For if you want more bestagons in your printer |
+| | [Hex Panels](/Mods/Alexander_T-Moss/Hex_Panels) | For if you want more bestagons in your printer |
 | | [Skirt Fans](/Mods/Alexander_T-Moss/Skirt_Fans) | Mounts for a pair of 3010's on the side skirts |
 | MechaXx |[Waveshare 2.8 Screen](/Mods/MechaXx/Waveshare_28_Screen) | Waveshare 2.8 screen front skirt mount |
 
