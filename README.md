@@ -12,6 +12,7 @@ At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/t
 
 [Community Mods For HX0](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/Mods)
 
+<br>
 
 ## What Differentiates Hex-Zero From Tri-Zero + Pandora Gantry?
 
@@ -26,7 +27,7 @@ When I started working on Hex-Zero, I wanted to address my main concern with Tri
 
 Documentation is another frequently overlooked aspect of projects like these (and by far the most time-consuming thing to complete). When I first started this journey (_before even designing anything_), I had many questions about hardware compatibility, such as "If I do thing A, can I also do thing B", "To do thing C, what do I need for thing D" and "Will doing thing E even work!" To make this project as accessible as possible, I intend to develop documentation and resources that address as many common questions as possible!
 
-
+<br>
 
 ## Community Beta Testing Builds
 
@@ -36,7 +37,7 @@ I want to extend a massive thanks to everyone who took a leap of faith in buildi
 
 Credits in order of images left to right: Hud (*HX0.1*),  Rahim Damji (*HX0.2*), Siboor (*HX0.3*), Spicy Pesto (*HX0.5*), Albino Deer (*HX0.4*), Sidjdosjsid (*HX0.ToBe*)
 
-
+<br>
 
 ## Credits
 
@@ -46,7 +47,9 @@ Credits in order of images left to right: Hud (*HX0.1*),  Rahim Damji (*HX0.2*),
 - **[Chirpy](https://github.com/chirpy2605)**: The brains behind the wonderful [dragon burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) toolhead
 
 If you accidentally stumbled across this project, checkout other similar projects on [3D Printers... For Ants](https://3dprintersforants.com/)
- 
+
+<br>
+
 ## Support
 
 With all things, nothing is truly perfect, so if you come across any issues, no matter how small, or find something you think can be improved, please don't hesitate to reach out with suggestions/feedback on the DOOMCUBE discord server in the [dedicated development channel](https://discord.com/channels/825469421346226226/1220161815455989800) for this project!
