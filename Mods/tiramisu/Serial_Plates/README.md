@@ -3,4 +3,4 @@ Add your serial number through a text modifier in a slicer, or through CAD. The 
 </br>
 No hardware is needed to mount this, but it is too wide for the back of the gantry, so mount this on the mini fridge door extrusions or at the back of the tophat as shown here:
 </br>
-![Screenshot showing the serial plate mounted on the rear tophat extrusion.](https://github.com/andreaspolydorides/Hex-Zero/blob/main/Mods/tiramisu/Serial_Plates/Images/Hex-Zero_Render_Serial_Plate.png)
+![Screenshot showing the serial plate mounted on the rear tophat extrusion.](/Mods/tiramisu/Serial_Plates/Images/Hex-Zero_Render_Serial_Plate.png)
