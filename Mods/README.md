@@ -15,6 +15,8 @@
 | | [Skirt Fans](/Mods/Alexander_T-Moss/Skirt_Fans) | Mounts for a pair of 3010's on the side skirts |
 | MechaXx |[Waveshare 2.8 Screen](/Mods/MechaXx/Waveshare_28_Screen) | Waveshare 2.8 screen front skirt mount |
 | tiramisu |[Serial Plates](/Mods/tiramisu/Serial_Plates) | HX0 Serial Plate for 1515 extrusions |
+| Hoeby |[Bottom Wago Holder](/Mods/Hoeby/Bottom-Wago-holder) | Wago Block Holder |
+| | [Bottom FT EMS](/Mods/Hoeby/Bottom-FT-EMS) | Bottom FT EMS |
 
 <br>
 <br>
