@@ -25,3 +25,5 @@ All printed parts where possible are designed with the following print settings 
 Where applicable, there are `.step` files for parts that can be printed in multiple colours. They are often located in a folder of the part name along with an `.stl` of the part.
 
 > After importing them into your slicer of choice, if they don't already show as multiple parts, right click on the object and split it into parts (not objects!).
+>
+> Also worth noting the `.step` version of parts are not oriented so you may need to refer to the `.stl` for correct orientation.
