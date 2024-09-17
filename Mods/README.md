@@ -55,6 +55,6 @@ The `Mods` folder uses a 2 layer folder structure to organize all the mods
 _*Note: If someone has a single mod it still has an author folder_
 
 ## What Must A Mod Folder Need To Include
-At a bare minimum, each mod folder should contain the accreditation (_ideally a .step and/or .f3d file_), accreditation (_ideally oriented correctly for printing_) a **screenshot from CAD or a photo** of the mod installed and a short `README.md` providing the relevant information for the mod
+At a bare minimum, each mod folder should contain a CAD file (_ideally a .step and/or .f3d file_), STLs (_ideally oriented correctly for printing_) a **screenshot from CAD or a photo** of the mod installed and a short `README.md` providing the relevant information for the mod
 
 Also, make sure there are no spaces in any file or folder name (_using underscores `_` or dashes `-` where required_)
