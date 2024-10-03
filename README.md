@@ -8,7 +8,7 @@ At its core, HX0 is a re-design of the [Tri-Zero](https://github.com/zruncho3d/t
 
 [BOM And Sourcing Guide](https://docs.google.com/spreadsheets/d/1rqf1-H34D0NAQSOrVUcAvukW5k4i_Hs-t34R7qeSDDk/edit?usp=sharing)
 
-[Very Early Release Manual](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing)
+~~[Very Early Release Manual](https://docs.google.com/presentation/d/1XJv6mhR6lkI2eAlZ3oS6MfDWln81kRRjcN10jNzyiEM/edit?usp=sharing)~~ (Ignore This, Refer To CAD)
 
 [Common Questions And Answers](https://github.com/Alexander-T-Moss/Hex-Zero/blob/main/QnA.md)
 
