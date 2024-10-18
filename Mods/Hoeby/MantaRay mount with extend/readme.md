@@ -10,4 +10,4 @@ https://nl.aliexpress.com/item/1005006258834675.html?spm=a2g0o.order_list.order_
 <p align="center"><img width="150" src="assets/Pin.png"></p>
 
 Some cad views, how this mod looks
-<p align="center"><img width="300" src="assets/Front%20Left%20image.png"><img width="300" src="assets/Back%20image.png"></p>
+<p align="center"><img width="400" src="assets/Front%20Left%20image.png">&nbsp&nbsp&nbsp&nbsp<img width="400" src="assets/Back%20image.png"></p>
