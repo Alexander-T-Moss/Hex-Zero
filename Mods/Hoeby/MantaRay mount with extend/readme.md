@@ -7,4 +7,7 @@ Need for this mod: <br>
 6x 18mm pins with M3 thread <br>
 https://nl.aliexpress.com/item/1005006258834675.html?spm=a2g0o.order_list.order_list_main.175.356679d2OVxes5&gatewayAdapt=glo2nld <br>
 
-<p align="center"><img width="200" src="assets/Pin.png"></p>
+<p align="center"><img width="150" src="assets/Pin.png"></p>
+
+Some cad views, how this mod looks
+<p align="center"><img width="200" src="assets/Front%20Left%20image.png"><img width="150" src="assets/Back%20image.png"></p>
