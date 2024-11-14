@@ -14,7 +14,7 @@ Front skirt mount and cover for installing a [Waveshare 2.8 Screen](https://www.
 <br>
 
 ## Waveshare 2.8 Software Configuration Guide
-These steps need to be followed prior to installing and setting up KlipperScreen like you would regularly
+**These steps need to be followed prior to installing and setting up KlipperScreen like you would regularly**
 1. Log into your Pi SSH terminal (e.g. using putty or similar) and type in `sudo nano /boot/firmware/config.txt`
 
 2. At the bottom of the opened file, find the `[all]` section and add the following line: `sudo nano /boot/firmware/config.txt` (_see image below for what it should look like_)
