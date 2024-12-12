@@ -17,6 +17,9 @@
 | tiramisu |[Serial Plates](/Mods/tiramisu/Serial_Plates) | HX0 Serial Plate for 1515 extrusions |
 | Hoeby |[Bottom Wago Holder](/Mods/Hoeby/Bottom-Wago-holder) | Wago Block Holder |
 | | [Bottom FT EMS](/Mods/Hoeby/Bottom_FT_EMS) | Bottom FT EMS |
+| | [Front belt tensioner](/Mods/Hoeby/Front_Belt_Blocks) | Different belt clamping in front tensioner |
+| | [Extended MantaRay kinematic](/Mods/Hoeby/MantaRay%20mount%20with%20extend) | Prevent easelly dropping MantaRay |
+| | [HX0_Anthead](/Mods/Hoeby/MantaRay%20mount%20with%20extend) | AntHead with mods specially for HX0 |
 
 <br>
 <br>
