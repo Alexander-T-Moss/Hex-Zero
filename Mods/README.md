@@ -19,7 +19,7 @@
 | | [Bottom FT EMS](/Mods/Hoeby/Bottom_FT_EMS) | Bottom FT EMS |
 | | [Front belt tensioner](/Mods/Hoeby/Front_Belt_Blocks) | Different belt clamping in front tensioner |
 | | [Extended MantaRay kinematic](/Mods/Hoeby/MantaRay%20mount%20with%20extend) | Prevent easelly dropping MantaRay |
-| | [HX0_Anthead](/Mods/Hoeby/MantaRay%20mount%20with%20extend) | AntHead with mods specially for HX0 |
+| | [HX0_Anthead](/Mods/Hoeby/HX0_Anthead) | AntHead with mods specially for HX0 |
 
 <br>
 <br>
