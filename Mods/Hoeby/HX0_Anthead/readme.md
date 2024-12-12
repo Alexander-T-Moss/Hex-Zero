@@ -30,7 +30,7 @@ https://github.com/zruncho3d/ZeroClick
 
 With the optional carriage, this is the maximum travel. <br>
 X = 137.50mm <br>
-Y = 118.00mm (1mm from front door) <br>
+Y = 120.00mm (1mm from front door) <br>
 Z = 102.20mm 
 
 ## Work for the future
