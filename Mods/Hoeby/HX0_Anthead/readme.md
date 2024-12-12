@@ -1,5 +1,5 @@
 # &#x2B22; AntHead for HexZero &#x2B22;
-<p align="center"><img width="500" src="Assets/HX0_AntHead.png"></p>
+<p align="center"><img width="750" src="Assets/HX0_AntHead.png"></p>
 
 # Mod Guide
 Mods specially for the AntHead, to get it fit to the HexZero. <br>
