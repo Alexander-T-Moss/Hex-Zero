@@ -5,6 +5,7 @@
 Mods specially for the AntHead, to get it fit to the HexZero. <br>
 By default, the AntHead has to probe on the back, that isn't going to work on the HexZero. <br>
 Therefor, the left duct is changed, to add zeroclick.
+The mod is drawn on AntHead version 43
 
 ## Where to find the missing parts?
 Only the changed parts can be downloaded. For all other parts, see the AntHead github. <br>
