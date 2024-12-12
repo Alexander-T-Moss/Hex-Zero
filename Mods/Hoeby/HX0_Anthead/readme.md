@@ -25,9 +25,9 @@ https://github.com/zruncho3d/ZeroClick
 ## Optional
 - Carriage mount
 
-With the optional carriage, this is the maximum travel
-X = 137.50mm
-Y = 118.00mm (1mm from front door)
+With the optional carriage, this is the maximum travel. <br>
+X = 137.50mm <br>
+Y = 118.00mm (1mm from front door) <br>
 Z = 102.20mm 
 
 ## Work for the future
