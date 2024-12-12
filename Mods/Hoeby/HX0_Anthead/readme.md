@@ -25,5 +25,10 @@ https://github.com/zruncho3d/ZeroClick
 ## Optional
 - Carriage mount
 
+With the optional carriage, this is the maximum travel
+X = 137.50mm
+Y = 118.00mm (1mm from front door)
+Z = 102.20mm 
+
 ## Work for the future
 - Finished the HX0 servo dock, for zero click on HX0_Anthead
