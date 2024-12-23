@@ -20,6 +20,7 @@
 | | [Front belt tensioner](/Mods/Hoeby/Front_Belt_Blocks) | Different belt clamping in front tensioner |
 | | [Extended MantaRay kinematic](/Mods/Hoeby/MantaRay%20mount%20with%20extend) | Prevent easelly dropping MantaRay |
 | | [HX0_Anthead](/Mods/Hoeby/HX0_Anthead) | AntHead with mods specially for HX0 |
+| | [PurgeBucket](/Mods/Hoeby/PurgeBucket) | PurgeBucket to fit Mantaray and Hammerhead bed |
 
 <br>
 <br>
