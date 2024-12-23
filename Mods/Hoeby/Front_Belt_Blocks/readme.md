@@ -7,8 +7,8 @@ On my assembly i run into issues, when tension the front belts, that the tension
 The result was, that the belts jump out of the original blocks. 
 
 ## Which 3d parts are shared
-Only the 3D printed parts for the PurgeBucket are shared. <br>
-The bed-mount is mantaray and hammerhead bed compatible.
+Only the 3D printed parts for the front belt blocks are shared. <br>
+The blocks are for the mantaray bed.
 
 ## Hardware needed for this mode
 - 2x M2 nut
