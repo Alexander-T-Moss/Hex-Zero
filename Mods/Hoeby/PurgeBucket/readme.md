@@ -30,13 +30,25 @@ variable_wipe_spd: 10000
 variable_raise_distance: 20
 
 gcode:
- ## Check if homing is done, incl. Z_til_adjust
+ ## Check if homing is done, otherwise homing
  {% if "xyz" not in printer.toolhead.homed_axes %}
    G28
  {% endif %}
+
+ ## Check if Z_Tilt is done, otherwise Z_Tilt_Adjust
  {% if printer.z_tilt.applied == False %}
    Z_TILT_ADJUST
  {% endif %}
+
+ ## Check if extruder has minimum extrude temperature, otherwise heat extruder
+ {% set temp = printer["extruder"].temperature %}
+ {% set temp_min = printer.configfile.settings["extruder"].min_extrude_temp|float %}  
+ {% if temp < temp_min %}
+    G1 X60 Y60 F{wipe_spd / 2}
+    M104 S{temp_min}
+    M109 S{temp_min}  
+ {% endif %}
+
  G90                                            
 
  ## Move nozzle to start position
@@ -52,3 +64,4 @@ gcode:
 
  ## Raise nozzle
  G1 Z{raise_distance} F1500
+ G1 X60 Y60 F{wipe_spd / 2}
