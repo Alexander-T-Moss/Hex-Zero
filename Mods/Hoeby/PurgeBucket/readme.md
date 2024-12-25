@@ -18,7 +18,6 @@ Without a support, the magnet hole for the bucket could be deformed.
 
 ## Used klipper macro
 This macro is used to clean the nozzle. <br>
-It assums, that the nozzle is already heated, there isn't a check on that. <br>
 ```
 [gcode_macro CLEAN_NOZZLE]
 variable_start_x: 128
