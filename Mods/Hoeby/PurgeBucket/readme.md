@@ -25,10 +25,21 @@ variable_start_y: 55
 variable_start_z: 3.6
 variable_wipe_dist: 45
 variable_wipe_count: 5
-variable_wipe_spd: 10000
+variable_wipe_speed: 10000
 variable_raise_distance: 20
 
 gcode:
+ ## Check if extruder has minimum extrude temperature, otherwise heat extruder
+ {% set temp_to_low = False %}
+ {% set temp_min = printer.configfile.settings["extruder"].min_extrude_temp|float %}  
+
+ ## Check if the target that is set on the extruder is larger then minimum extruder temp
+ ## Otherwise heatup to minimum extruder temp
+ {% if printer.extruder.target < temp_min %}
+    M104 S{temp_min}
+    {% set temp_to_low = True %} 
+ {% endif %}
+ 
  ## Check if homing is done, otherwise homing
  {% if "xyz" not in printer.toolhead.homed_axes %}
    G28
@@ -39,28 +50,29 @@ gcode:
    Z_TILT_ADJUST
  {% endif %}
 
- ## Check if extruder has minimum extrude temperature, otherwise heat extruder
- {% set temp = printer["extruder"].temperature %}
- {% set temp_min = printer.configfile.settings["extruder"].min_extrude_temp|float %}  
- {% if temp < temp_min %}
-    G1 X60 Y60 F{wipe_spd / 2}
-    M104 S{temp_min}
-    M109 S{temp_min}  
+ ## There was no extruder target, waiting for extruder to finish heating to minimum extruder temp
+ {% if temp_to_low == True %}
+   M109 S{temp_min} 
  {% endif %}
 
  G90                                            
 
  ## Move nozzle to start position
- G1 X{start_x} Y{start_y} F{wipe_spd / 2}
+ G1 X{start_x} Y{start_y} F{wipe_speed / 2}
  G1 Z{start_z} F1500
 
  ## Wipe nozzle
  {% for wipes in range(wipe_count) %}
     {% for coordinate in [(start_x, start_y),(start_x, start_y - wipe_dist)] %}
-        G0 X{coordinate[0] - 0.5 * wipes} Y{coordinate[1]} F{wipe_spd}
+        G0 X{coordinate[0] - 0.6 * wipes} Y{coordinate[1]} F{wipe_speed}
     {% endfor %}
  {% endfor %}
 
+ ## There was no extruder target, disable extruder heater
+ {% if temp_to_low == True %}
+   M104 S0 
+ {% endif %}
+  
  ## Raise nozzle
  G1 Z{raise_distance} F1500
- G1 X60 Y60 F{wipe_spd / 2}
+ G1 X60 Y60 F{wipe_speed / 2}
