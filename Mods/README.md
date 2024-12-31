@@ -21,6 +21,7 @@
 | | [Extended MantaRay kinematic](/Mods/Hoeby/MantaRay%20mount%20with%20extend) | Prevent easelly dropping MantaRay |
 | | [HX0_Anthead](/Mods/Hoeby/HX0_Anthead) | AntHead with mods specially for HX0 |
 | | [PurgeBucket](/Mods/Hoeby/PurgeBucket) | PurgeBucket to fit Mantaray and Hammerhead bed |
+| | [SuperSlicer](/Mods/Hoeby/SuperSlicer_Texture_Model) | Files to customize your SuperSlicer to HexZero |
 
 <br>
 <br>
