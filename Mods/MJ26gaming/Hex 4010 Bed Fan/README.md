@@ -2,6 +2,7 @@
 
 ## About this mod
 This replace's the mod Alexander made, allowing for even more CFM for chamber heating. <br>
+It definitely works with the Hammerhead bed. I have not tested it on the Manta Ray but it probably works there too. <br>
 I use GDStimes, I will update with the lifespan of those. <br>
 Consider usinga stronger bed heater. The BOM 60w heater will definitely be overcooled by this. I use a 120w heater.
 
