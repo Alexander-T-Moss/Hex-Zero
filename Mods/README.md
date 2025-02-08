@@ -23,6 +23,7 @@
 | | [PurgeBucket](/Mods/Hoeby/PurgeBucket) | PurgeBucket to fit Mantaray and Hammerhead bed |
 | | [SuperSlicer](/Mods/Hoeby/SuperSlicer_Texture_Model) | Files to customize your SuperSlicer to HexZero |
 | MJ26gaming | [4010 Bed Fan](/Mods/MJ26gaming/Hex%204010%20Bed%20Fan) | Mount for dual 4010 bed fans |
+| G |  [Hex-Burner Revo PZ](/Mods/G/Hex-Burner_Revo_PZ_Mod) | STLs for routing and mounting the Revo PZ  |
 
 <br>
 <br>
