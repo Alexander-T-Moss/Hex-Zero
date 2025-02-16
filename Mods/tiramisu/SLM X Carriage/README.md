@@ -13,7 +13,7 @@ I have uploaded version with both a mounting for normal Dragonburner (and simila
 
 This render is not fully indicative of the STLs, will update soon.
 
-![Render of HexMetal, same part, shown thrice from different angles](/images/HexMetal_SLM_Carriage_Render.png)
+![Render of HexMetal, same part, shown thrice from different angles](Images/HexMetal_SLM_Carriage_Render.png)
 
 
 
