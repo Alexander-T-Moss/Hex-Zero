@@ -1,37 +1,24 @@
 # &#x2B22; HX0 MantaRay bed with KGLM03 ball joints &#x2B22;
-<p align="center"><img width="750" src="Assets/HX0_AntHead.png"></p>
+<p align="center"><img width="750" src="Assets/Overview.png"></p>
 
 # Mod Guide
-Mods specially for the AntHead, to get it fit to the HexZero. <br>
-By default, the AntHead has to probe on the back, that isn't going to work on the HexZero. <br>
-Therefor, the left duct is changed, to add zeroclick. <br>
-The mod is drawn on AntHead version 43. <br>
-
-Be carefull with mounting the led parts. <br>
-Because of the logo, the parts are thin and fragile
-
-## Where to find the missing parts?
-Only the changed parts can be downloaded. For all other parts, see the AntHead github. <br>
-https://github.com/PrintersForAnts/AntHead
-
-The zeroclick parts can be found: <br>
-https://github.com/zruncho3d/ZeroClick
+The MantaRay uses the stock 3x 100mm extrusions from a V0 kit. <br>
+Original the MantaRay uses rail mounts with pins, they are easier to source then the KGLM03 joints. <br>
+This mod uses the KGLM03 joints from the Hammerhead bed, on the MantaRay bed.
 
 ## What are the changed parts in this mod:
-- Left ducting
-- Main body O2 with HX0 logo
-- Main body sherpa with HX0 logo
-- Led diffuser HX0 logo
-- Led light shield HX0 logo
-- ZeroClick dock for HX0
+- [a]_kinematic_rail_front_left.stl
+- [a]_kinematic_rail_front_right.stl
+- [a]_kinematic_rail_rear.stl
+- front_left_gantry_attachment.stl
+- front_right_gantry_attachment.stl
+- rear_gantry_attachment.stl
 
-## Optional
-- Carriage mount
-
-With the optional carriage, this is the maximum travel. <br>
-X = 137.50mm <br>
-Y = 120.00mm (1mm from front door) <br>
-Z = 102.20mm 
-
-## Work for the future
-- Finished the HX0 servo dock, for zero click on HX0_Anthead
+## Needed parts
+- 3x KGLM-03
+- 2x M2x8
+- 4x M2x10
+- 2x M2x15
+- 4x M2x16
+- 3x M3x10
+- 3x Heat insert (voron size)
