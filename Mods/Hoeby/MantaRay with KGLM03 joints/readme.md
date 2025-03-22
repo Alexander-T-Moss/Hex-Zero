@@ -1,5 +1,6 @@
 # &#x2B22; HX0 MantaRay bed with KGLM03 ball joints &#x2B22;
-<p align="center"><img width="750" src="Assets/Overview.png"></p>
+<p align="center"><img width="750" src="assets/Overview.png"></p>
+<p align="center"><img width="750" src="assets/Front_right.png"></p>
 
 # Mod Guide
 The MantaRay uses the stock 3x 100mm extrusions from a V0 kit. <br>
