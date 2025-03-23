@@ -24,6 +24,10 @@
 | | [SuperSlicer](/Mods/Hoeby/SuperSlicer_Texture_Model) | Files to customize your SuperSlicer to HexZero |
 | | [MantaRay KGLM03 joints](/Mods/Hoeby/MantaRay%20with%20KGLM03%20joints) | MantaRay bed with KGLM03 ball joints |
 | MJ26gaming | [4010 Bed Fan](/Mods/MJ26gaming/Hex%204010%20Bed%20Fan) | Mount for dual 4010 bed fans |
+| G |  [Hex-Burner Revo PZ](/Mods/G/Hex-Burner_Revo_PZ) | STLs for routing and mounting the Revo PZ |
+| |  [Hex-Burner Offset Carriage](/Mods/G/Hex-Burner_Offset_Carriage) | X-Carriage to offset the Hex-Burner toolhead 2mm forward |
+| |  [Top Hat Braces](/Mods/G/Top_Hat_Braces) | A collection of STLs to permanantly secure the top hat |
+| |  [GBB15 Motor Panel](/Mods/G/GBB15_Motor_Panel) | GBB15 motor panel mount |
 
 <br>
 <br>
