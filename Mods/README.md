@@ -22,6 +22,7 @@
 | | [HX0_Anthead](/Mods/Hoeby/HX0_Anthead) | AntHead with mods specially for HX0 |
 | | [PurgeBucket](/Mods/Hoeby/PurgeBucket) | PurgeBucket to fit Mantaray and Hammerhead bed |
 | | [SuperSlicer](/Mods/Hoeby/SuperSlicer_Texture_Model) | Files to customize your SuperSlicer to HexZero |
+| | [MantaRay KGLM03 joints](/Mods/Hoeby/MantaRay%20with%20KGLM03%20joints) | MantaRay bed with KGLM03 ball joints |
 | MJ26gaming | [4010 Bed Fan](/Mods/MJ26gaming/Hex%204010%20Bed%20Fan) | Mount for dual 4010 bed fans |
 
 <br>
