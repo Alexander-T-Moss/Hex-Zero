@@ -28,6 +28,7 @@
 | |  [Hex-Burner Offset Carriage](/Mods/G/Hex-Burner_Offset_Carriage) | X-Carriage to offset the Hex-Burner toolhead 2mm forward |
 | |  [Top Hat Braces](/Mods/G/Top_Hat_Braces) | A collection of STLs to permanantly secure the top hat |
 | |  [GBB15 Motor Panel](/Mods/G/GBB15_Motor_Panel) | GBB15 motor panel mount |
+| fronti90 |[48mm Z Motors](/Mods/fronti90/48mm_z_motors) | Mounts and skirts for 48 mm Z Motors |
 
 <br>
 <br>
