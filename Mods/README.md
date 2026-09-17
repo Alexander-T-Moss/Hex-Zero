@@ -30,6 +30,7 @@
 | |  [GBB15 Motor Panel](/Mods/G/GBB15_Motor_Panel) | GBB15 motor panel mount |
 | fronti90 |[48mm Z Motors](/Mods/fronti90/48mm_z_motors) | Mounts and skirts for 48 mm Z Motors |
 | anchit92 | [Alternate Skirt](/Mods/anchit92/Alternate-Skirt) | Alternate Skirt |
+| | [Clamping rear Z belt Attachment](/Mods/anchit92/Clamping_rear_Z_belt_Attachment) | Rear Z Belt Clamp |
 | kenwch92 |  [M2_nut_Rear_Z](/Mods/kenwch92/M2_nut_Rear_Z) | Allows the use of M2 nut for Read Z Rail Mount |
 | | [Z-endstop Mount](/Mods/kenwch92/Z_endstop_mount) | Sexbolt Z endstop for auto Z calibration |
 
